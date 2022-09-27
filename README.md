@@ -1,24 +1,19 @@
-# README
+# Todoアプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 構成
 
-Things you may want to cover:
+**バックエンド**<br>
+Rails API + MySQL
 
-* Ruby version
+**フロントエンド**<br>
+React+TypeScript<br>
+[todo_frontend](https://github.com/WAKUZO/todo_frontend)
 
-* System dependencies
+## 機能
+- タスク一覧
+- タスク作成
+- タスク完了
+- タスク削除
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## デモ
+https://user-images.githubusercontent.com/58378273/192489469-51a9f967-5f36-48c3-be3c-3c984fdd178a.mov
